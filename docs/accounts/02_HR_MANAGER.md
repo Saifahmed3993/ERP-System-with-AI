@@ -2,7 +2,7 @@
 
 # 👥 Indigo ERP — HR Manager Account Guide
 
-### Nile Horizon Technologies S.A.E — Enterprise Resource Planning System
+### Enterprise Resource Planning System
 
 <br />
 
@@ -29,7 +29,7 @@
 
 ## 📋 Account Overview
 
-The **HR Manager** account is designed for Human Resources professionals who manage the workforce, payroll, benefits, and employee lifecycle. Ahmed Mansour oversees all HR operations for Nile Horizon Technologies, managing a team of 10 Egyptian employees across 5 departments.
+The **HR Manager** account is designed for Human Resources professionals who manage the workforce, payroll, benefits, and employee lifecycle. Ahmed Mansour oversees all HR operations for the enterprise, managing a team of 10 Egyptian employees across 5 departments.
 
 ---
 
@@ -114,6 +114,6 @@ The following modules are **not accessible** to the HR Manager:
 
 **Indigo ERP** · Built for Egyptian Enterprise Excellence
 
-*Nile Horizon Technologies S.A.E — Smart Village, Giza, Egypt*
+*Enterprise ERP System — Modern Business Operations*
 
 </div>

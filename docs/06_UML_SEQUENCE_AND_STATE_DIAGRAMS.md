@@ -1,6 +1,6 @@
 # ⏱️ Dynamic Behavioral Modeling: Sequence & State Diagrams
 ## UML Sequence Interactions, State Machines & Workflow Lifecycles
-### Enterprise Client: Nile Horizon Technologies S.A.E
+### Comprehensive System Analysis & Design Specification
 **Project Repository:** [Saifahmed3993/ERP-System-with-AI](https://github.com/Saifahmed3993/ERP-System-with-AI)  
 **Version:** 2.0.0 — Dynamic Behavioral Architecture
 

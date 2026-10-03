@@ -2,7 +2,7 @@
 
 # 🏢 Indigo ERP — Administrator Account Guide
 
-### Nile Horizon Technologies S.A.E — Enterprise Resource Planning System
+### Enterprise Resource Planning System
 
 <br />
 
@@ -84,7 +84,7 @@ The **Administrator** account has **full, unrestricted access** to every module 
 
 | Property | Value |
 |:---------|:------|
-| **Company** | Nile Horizon Technologies S.A.E |
+| **Company** | Enterprise Corporation (S.A.E) |
 | **Location** | Building 12B, Smart Village, KM 28 Cairo-Alex Desert Road, Giza |
 | **Tax ID** | 412-985-632 |
 | **Currency** | Egyptian Pound (EGP) |
@@ -106,6 +106,6 @@ The **Administrator** account has **full, unrestricted access** to every module 
 
 **Indigo ERP** · Built for Egyptian Enterprise Excellence
 
-*Nile Horizon Technologies S.A.E — Smart Village, Giza, Egypt*
+*Enterprise ERP System — Modern Business Operations*
 
 </div>

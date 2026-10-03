@@ -1,6 +1,6 @@
 # 🛡️ Security, Governance & Regulatory Compliance Architecture
 ## RBAC Permission Matrix, Audit Trail Architecture & Egyptian Statutory Compliance
-### Enterprise Client: Nile Horizon Technologies S.A.E
+### Comprehensive System Analysis & Design Specification
 **Project Repository:** [Saifahmed3993/ERP-System-with-AI](https://github.com/Saifahmed3993/ERP-System-with-AI)  
 **Version:** 2.0.0 — Security & Governance Engineering
 

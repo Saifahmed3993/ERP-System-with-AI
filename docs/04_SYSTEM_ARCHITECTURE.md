@@ -1,6 +1,6 @@
 # 🏛️ System Architecture & Engineering Design
 ## Architectural Blueprints, Design Patterns & Component Specifications
-### Enterprise Client: Nile Horizon Technologies S.A.E
+### Comprehensive System Analysis & Design Specification
 **Project Repository:** [Saifahmed3993/ERP-System-with-AI](https://github.com/Saifahmed3993/ERP-System-with-AI)  
 **Version:** 2.0.0 — Comprehensive Engineering Architecture
 

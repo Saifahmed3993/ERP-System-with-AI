@@ -1,6 +1,6 @@
 # 📋 System Analysis Document (SAD)
 ## Next-Generation AI-Enhanced Accounting & HR Enterprise Resource Planning (ERP) System
-### Enterprise Client: Nile Horizon Technologies S.A.E (نايل هورايزون للحلول التكنولوجية ش.م.م)
+### Comprehensive System Analysis & Design Specification
 **Project Repository:** [Saifahmed3993/ERP-System-with-AI](https://github.com/Saifahmed3993/ERP-System-with-AI)  
 **Version:** 2.0.0 — Comprehensive Engineering Specification  
 **Document Classification:** System Analysis & Requirements Engineering

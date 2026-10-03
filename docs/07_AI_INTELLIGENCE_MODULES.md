@@ -1,6 +1,6 @@
 # 🤖 AI Intelligence Architecture & Machine Learning Modules
 ## Predictive Financial Modeling, Computer Vision OCR & Workforce Analytics
-### Enterprise Client: Nile Horizon Technologies S.A.E
+### Comprehensive System Analysis & Design Specification
 **Project Repository:** [Saifahmed3993/ERP-System-with-AI](https://github.com/Saifahmed3993/ERP-System-with-AI)  
 **Version:** 2.0.0 — AI Engineering Architecture
 
@@ -83,7 +83,7 @@ graph LR
 ```
 
 ### 2.2 Model Confidence Intervals
-Predictions are output with $95\%$ confidence bounds ($\hat{y} \pm 1.96 \cdot \hat{\sigma}$). If the lower bound breaches the corporate liquidity threshold (configured as `EGP 500,000` for Nile Horizon Technologies), an automated alert notification is routed to the Finance Director.
+Predictions are output with $95\%$ confidence bounds ($\hat{y} \pm 1.96 \cdot \hat{\sigma}$). If the lower bound breaches the corporate liquidity threshold (configured as `EGP 500,000` for the enterprise), an automated alert notification is routed to the Finance Director.
 
 ---
 

@@ -1,6 +1,6 @@
 # 🎨 UI/UX Design System & Interface Specifications
 ## Information Architecture, Design Tokens, Wireframe Specs & Screenshot Gallery
-### Enterprise Client: Nile Horizon Technologies S.A.E
+### Comprehensive System Analysis & Design Specification
 **Project Repository:** [Saifahmed3993/ERP-System-with-AI](https://github.com/Saifahmed3993/ERP-System-with-AI)  
 **Version:** 2.0.0 — UI/UX Engineering Specification  
 **Design Paradigm:** Modern Glassmorphism & High-Density Enterprise SaaS
@@ -180,7 +180,7 @@ The immutable historical transaction inspector displaying user mutations, before
 ---
 
 ### 5.7 Organizational & Fiscal Settings
-Global enterprise configuration panel defining corporate entity details (Nile Horizon Technologies S.A.E), commercial registration, tax IDs, fiscal calendar, and storage paths:
+Global enterprise configuration panel defining corporate entity details (Enterprise Corporation), commercial registration, tax IDs, fiscal calendar, and storage paths:
 
 ![07 Settings Page](assets/screenshots/07_settings_page.png)
 

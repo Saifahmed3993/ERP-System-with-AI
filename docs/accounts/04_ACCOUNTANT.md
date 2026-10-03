@@ -2,7 +2,7 @@
 
 # 📒 Indigo ERP — Accountant Account Guide
 
-### Nile Horizon Technologies S.A.E — Enterprise Resource Planning System
+### Enterprise Resource Planning System
 
 <br />
 
@@ -117,6 +117,6 @@ The following modules are **not accessible** to the Accountant:
 
 **Indigo ERP** · Built for Egyptian Enterprise Excellence
 
-*Nile Horizon Technologies S.A.E — Smart Village, Giza, Egypt*
+*Enterprise ERP System — Modern Business Operations*
 
 </div>

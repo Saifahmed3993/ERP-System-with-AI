@@ -2,8 +2,8 @@
 
 # 🏢 Indigo ERP — Complete System Accounts Guide
 
-### Nile Horizon Technologies S.A.E
-### نايل هورايزون للحلول التكنولوجية ش.م.م
+### Enterprise Resource Planning System
+### نظام إدارة الموارد المؤسسية
 
 <br />
 
@@ -148,7 +148,7 @@ curl -X POST http://localhost:5250/api/seed/egyptian
 
 | Property | Value |
 |:---------|:------|
-| **Company Name** | Nile Horizon Technologies S.A.E (نايل هورايزون للحلول التكنولوجية ش.م.م) |
+| **Company Name** | Enterprise Corporation (S.A.E) |
 | **Legal Entity** | Société Anonyme Egyptienne (S.A.E) |
 | **Headquarters** | Building 12B, Smart Village, KM 28 Cairo-Alexandria Desert Road, Giza, Egypt |
 | **Tax Registration** | 412-985-632 |
@@ -257,12 +257,12 @@ For complete documentation on each account's features, permissions, and workflow
 
 **Indigo ERP** — Comprehensive Accounting & HR System
 
-*Nile Horizon Technologies S.A.E*
+*Enterprise ERP System*
 
 *Building 12B, Smart Village, KM 28 Cairo-Alex Desert Road, Giza, Egypt*
 
 ---
 
-© 2026 Nile Horizon Technologies S.A.E. All rights reserved.
+© 2026 Enterprise ERP with AI. All rights reserved.
 
 </div>

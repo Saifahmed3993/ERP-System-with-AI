@@ -2,7 +2,7 @@
 
 # 💰 Indigo ERP — Finance Manager Account Guide
 
-### Nile Horizon Technologies S.A.E — Enterprise Resource Planning System
+### Enterprise Resource Planning System
 
 <br />
 
@@ -29,7 +29,7 @@
 
 ## 📋 Account Overview
 
-The **Finance Manager** account is designed for financial executives who oversee the company's fiscal operations. Tarek El-Sayed manages all accounting, invoicing, payments, and budgeting operations for Nile Horizon Technologies, working with Egyptian banks (CIB, NBE, Banque Misr), major corporate clients, and government tax compliance (14% VAT).
+The **Finance Manager** account is designed for financial executives who oversee the company's fiscal operations. Tarek El-Sayed manages all accounting, invoicing, payments, and budgeting operations for the enterprise, working with Egyptian banks (CIB, NBE, Banque Misr), major corporate clients, and government tax compliance (14% VAT).
 
 ---
 
@@ -132,6 +132,6 @@ The following modules are **not accessible** to the Finance Manager:
 
 **Indigo ERP** · Built for Egyptian Enterprise Excellence
 
-*Nile Horizon Technologies S.A.E — Smart Village, Giza, Egypt*
+*Enterprise ERP System — Modern Business Operations*
 
 </div>

@@ -1,6 +1,6 @@
 # 📘 Indigo ERP with AI — System Analysis and Design Document (SADD)
 ## Complete Architectural, Analytical & Engineering Specification
-### Enterprise Client: Nile Horizon Technologies S.A.E (نايل هورايزون للحلول التكنولوجية ش.م.م)
+### Comprehensive System Analysis & Design Specification
 **Repository:** [Saifahmed3993/ERP-System-with-AI](https://github.com/Saifahmed3993/ERP-System-with-AI)  
 **Document Code:** NHT-SADD-2026-V2  
 **Publication Date:** October 2026  
@@ -54,11 +54,11 @@ For deep-dive technical reviews, this specification is decomposed into ten dedic
 
 ---
 
-## 🏢 Enterprise Case Study Profile: Nile Horizon Technologies S.A.E
+## 🏢 Enterprise Organizational & Fiscal Profile
 
 | Organizational Parameter | Verified Corporate Specification |
 |:---|:---|
-| **Legal Entity Name** | **Nile Horizon Technologies S.A.E (نايل هورايزون للحلول التكنولوجية ش.م.م)** |
+| **Organization Entity** | **Enterprise Corporation (S.A.E)** |
 | **Corporate Structure** | Société Anonyme Egyptienne (Egyptian Joint Stock Company) |
 | **Headquarters** | Building 12B, Smart Village, KM 28 Cairo-Alexandria Desert Road, Giza, Egypt |
 | **Commercial Tax Registration** | `412-985-632` |
@@ -153,7 +153,7 @@ Immutable log repository tracking user actions, before/after JSON diffs, timesta
 ![06 Audit Logs](assets/screenshots/06_audit_logs.png)
 
 ### 7. Organizational & Fiscal Settings
-Enterprise profile configuration panel (Nile Horizon Technologies S.A.E), commercial registration, tax IDs, fiscal calendar, and storage paths:
+Enterprise profile configuration panel, commercial registration, tax IDs, fiscal calendar, and storage paths:
 ![07 Settings](assets/screenshots/07_settings_page.png)
 
 ### 8. Egyptian Tax Rates & VAT Configuration
@@ -180,4 +180,4 @@ For authorized quality assurance and technical evaluation, the system seeds pre-
 The **Indigo ERP with AI** System Analysis and Design specification establishes a robust engineering foundation that bridges the operational divide between Human Resources and Financial Accounting. By coupling rigorous relational ACID transactional controls with cutting-edge artificial intelligence for predictive cash forecasting, automated invoice OCR, and attendance anomaly detection, the platform delivers unparalleled governance, operational velocity, and statutory compliance for Egyptian enterprise excellence.
 
 ---
-*Official Technical Specification of Nile Horizon Technologies S.A.E — All Rights Reserved © 2026*
+*Official Technical Specification — All Rights Reserved © 2026*

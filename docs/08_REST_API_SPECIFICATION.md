@@ -1,10 +1,10 @@
 # 🌐 RESTful API Engineering Specification
 ## Standardized HTTP Contracts, Payloads, Endpoints & Status Codes
-### Enterprise Client: Nile Horizon Technologies S.A.E
+### Comprehensive System Analysis & Design Specification
 **Project Repository:** [Saifahmed3993/ERP-System-with-AI](https://github.com/Saifahmed3993/ERP-System-with-AI)  
 **Version:** 2.0.0 — REST API Architecture  
 **Protocol:** HTTPS / TLS 1.3  
-**Base URL:** `https://api.indigo-erp.nilehorizon.com/api` (Local Dev: `http://localhost:5250/api`)
+**Base URL:** `https://api.indigo-erp.com/api` (Local Dev: `http://localhost:5250/api`)
 
 ---
 

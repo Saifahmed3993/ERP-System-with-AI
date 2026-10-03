@@ -157,11 +157,11 @@ The implemented user interface features rich, high-density enterprise layouts:
 
 ---
 
-## 🏢 Enterprise Case Study Profile: Nile Horizon Technologies S.A.E
+## 🏢 Enterprise Organizational & Fiscal Profile
 
 | Organizational Parameter | Specification |
 |:---|:---|
-| **Legal Entity** | **Nile Horizon Technologies S.A.E (نايل هورايزون للحلول التكنولوجية ش.م.م)** |
+| **Organization Entity** | **Enterprise Corporation (S.A.E)** |
 | **Legal Status** | Société Anonyme Egyptienne (Egyptian Joint Stock Company) |
 | **Headquarters** | Building 12B, Smart Village, KM 28 Cairo-Alexandria Desert Road, Giza, Egypt |
 | **Commercial Tax Registration** | `412-985-632` |
@@ -207,7 +207,7 @@ The following credentials represent pre-configured persona accounts for testing 
 ## 📄 License & Attribution
 
 This specification is published under the [MIT License](LICENSE).  
-Developed for academic excellence and enterprise deployment at **Nile Horizon Technologies S.A.E**.
+Developed for academic excellence and enterprise deployment at **Enterprise ERP System**.
 
 ---
 
@@ -215,6 +215,6 @@ Developed for academic excellence and enterprise deployment at **Nile Horizon Te
 
 **[Saifahmed3993/ERP-System-with-AI](https://github.com/Saifahmed3993/ERP-System-with-AI)**  
 *Building 12B, Smart Village, KM 28 Cairo-Alex Desert Road, Giza, Egypt*  
-© 2026 Nile Horizon Technologies S.A.E. All rights reserved.
+© 2026 Enterprise ERP with AI. All rights reserved.
 
 </div>

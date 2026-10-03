@@ -1,6 +1,6 @@
 # 🗄️ Database Design & Entity Relationship Diagram (ERD)
 ## Physical Relational Database Architecture & Comprehensive Data Dictionary
-### Enterprise Client: Nile Horizon Technologies S.A.E
+### Comprehensive System Analysis & Design Specification
 **Project Repository:** [Saifahmed3993/ERP-System-with-AI](https://github.com/Saifahmed3993/ERP-System-with-AI)  
 **Version:** 2.0.0 — Comprehensive Database Architecture  
 **Target RDBMS:** Microsoft SQL Server 2022+ / Azure SQL  
