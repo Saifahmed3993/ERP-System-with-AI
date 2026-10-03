@@ -4,7 +4,7 @@
 ### System Analysis & Design Specification (SAD / SDD)
 **Next-Generation Accounting, Human Resources & AI-Powered Enterprise Resource Planning Platform**
 
-*Engineered for Nile Horizon Technologies S.A.E (نايل هورايزون للحلول التكنولوجية ش.م.م)*
+
 
 <br />
 
