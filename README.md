@@ -114,16 +114,24 @@ flowchart TD
 ## 🖼️ Architectural Diagrams Showcase
 
 ### 1. Environmental Context Boundary Diagram
-![Figure 1: Context Diagram](./docs/assets/figures/figure1_context_diagram.png)
+<p align="center">
+  <img src="assets/figures/figure1_context_diagram.png" width="95%" alt="Figure 1: Context Diagram" />
+</p>
 
 ### 2. DFD Level 0 (System Decomposition & Data Stores)
-![Figure 2: DFD Level 0](./docs/assets/figures/figure2_dfd_level_0.png)
+<p align="center">
+  <img src="assets/figures/figure2_dfd_level_0.png" width="95%" alt="Figure 2: DFD Level 0" />
+</p>
 
 ### 3. Master System Use Case Diagram
-![Figure 3: Use Case Diagram](./docs/assets/figures/figure3_use_case_diagram.png)
+<p align="center">
+  <img src="assets/figures/figure3_use_case_diagram.png" width="95%" alt="Figure 3: Use Case Diagram" />
+</p>
 
 ### 4. Simplified Entity Relationship Diagram (ERD)
-![Figure 4: Simplified ERD](./docs/assets/figures/figure4_simplified_erd.png)
+<p align="center">
+  <img src="assets/figures/figure4_simplified_erd.png" width="95%" alt="Figure 4: Simplified ERD" />
+</p>
 
 ---
 
@@ -131,25 +139,21 @@ flowchart TD
 
 The implemented user interface features rich, high-density enterprise layouts:
 
-<div align="center">
-
 | Executive Dashboard | Financial Reports & Analytics |
 |:---:|:---:|
-| ![01 Dashboard](./docs/assets/screenshots/01_dashboard.png) | ![02 Reports](./docs/assets/screenshots/02_reports.png) |
+| <img src="assets/screenshots/01_dashboard.png" width="100%" alt="Executive Dashboard" /> | <img src="assets/screenshots/02_reports.png" width="100%" alt="Financial Reports" /> |
 
 | Digital Payslip Modal (Egyptian Taxes) | Enterprise User Management |
 |:---:|:---:|
-| ![03 Payslip](./docs/assets/screenshots/03_payslip_modal.png) | ![04 Users](./docs/assets/screenshots/04_users_page.png) |
+| <img src="assets/screenshots/03_payslip_modal.png" width="100%" alt="Payslip Modal" /> | <img src="assets/screenshots/04_users_page.png" width="100%" alt="User Management" /> |
 
 | RBAC Permission Matrix | Regulatory Audit Log Inspector |
 |:---:|:---:|
-| ![05 Roles](./docs/assets/screenshots/05_roles_matrix.png) | ![06 Audit Logs](./docs/assets/screenshots/06_audit_logs.png) |
+| <img src="assets/screenshots/05_roles_matrix.png" width="100%" alt="Roles Matrix" /> | <img src="assets/screenshots/06_audit_logs.png" width="100%" alt="Audit Logs" /> |
 
 | Organizational & Fiscal Settings | Egyptian Tax Rates & VAT Engine |
 |:---:|:---:|
-| ![07 Settings](./docs/assets/screenshots/07_settings_page.png) | ![08 Tax Rates](./docs/assets/screenshots/08_tax_rates.png) |
-
-</div>
+| <img src="assets/screenshots/07_settings_page.png" width="100%" alt="System Settings" /> | <img src="assets/screenshots/08_tax_rates.png" width="100%" alt="Tax Rates" /> |
 
 ---
 

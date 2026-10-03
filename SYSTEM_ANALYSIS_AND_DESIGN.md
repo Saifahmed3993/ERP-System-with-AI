@@ -128,16 +128,37 @@ flowchart LR
 
 The system is fully realized with an enterprise-grade user interface:
 
-| Screen Name | Description | Preview Reference |
-|:---|:---|:---:|
-| **Executive Dashboard** | Real-time liquidity, attendance rate, revenue vs. expense metrics, and quick action cards. | [View Dashboard](assets/screenshots/01_dashboard.png) |
-| **Financial Reports Hub** | Trial balance, P&L, 14% VAT return generator, and general ledger statement drilldown. | [View Reports](assets/screenshots/02_reports.png) |
-| **Digital Payslip Modal** | Individual employee compensation slip with progressive Egyptian taxes and social insurance. | [View Payslip](assets/screenshots/03_payslip_modal.png) |
-| **User Directory** | Identity directory with real-time status toggles and assigned role badges. | [View Users](assets/screenshots/04_users_page.png) |
-| **RBAC Matrix** | Granular permission assignment grid across all system operations. | [View Roles](assets/screenshots/05_roles_matrix.png) |
-| **Audit Log Viewer** | Immutable log repository tracking user actions, before/after JSON diffs, and client IPs. | [View Audit Logs](assets/screenshots/06_audit_logs.png) |
-| **System Settings** | Company profile, tax IDs, banking defaults, and document storage path configuration. | [View Settings](assets/screenshots/07_settings_page.png) |
-| **Egyptian Tax Engine** | Management of standard 14% VAT, withholding rates, and social insurance thresholds. | [View Tax Rates](assets/screenshots/08_tax_rates.png) |
+### 1. Executive Operations Dashboard
+Real-time liquidity metrics, workforce attendance rate, revenue vs. expense trends, and operational quick action cards:
+![01 Dashboard](assets/screenshots/01_dashboard.png)
+
+### 2. Financial Reports & Analytics Hub
+Trial balance, Profit & Loss statement, Egyptian 14% VAT return generator, and drilldown General Ledger audit statements:
+![02 Reports](assets/screenshots/02_reports.png)
+
+### 3. Confidential Digital Payslip Modal
+Individual employee compensation slip displaying Egyptian progressive income tax withholdings, social insurance splits, allowances, and net EGP disbursement:
+![03 Payslip](assets/screenshots/03_payslip_modal.png)
+
+### 4. Enterprise User Management
+Identity directory with real-time status toggles, linked employee profiles, and assigned role badges:
+![04 Users](assets/screenshots/04_users_page.png)
+
+### 5. Role-Based Access Control (RBAC) Matrix
+Granular permission assignment grid across all system operations (Administrator, HR Director, Finance Director, Senior Accountant):
+![05 Roles](assets/screenshots/05_roles_matrix.png)
+
+### 6. Regulatory Audit Trail Log Viewer
+Immutable log repository tracking user actions, before/after JSON diffs, timestamps, and client IP addresses:
+![06 Audit Logs](assets/screenshots/06_audit_logs.png)
+
+### 7. Organizational & Fiscal Settings
+Enterprise profile configuration panel (Nile Horizon Technologies S.A.E), commercial registration, tax IDs, fiscal calendar, and storage paths:
+![07 Settings](assets/screenshots/07_settings_page.png)
+
+### 8. Egyptian Tax Rates & VAT Configuration
+Statutory tax engine interface maintaining Egyptian 14% Value Added Tax (VAT), withholding tax brackets, and social insurance contribution ceilings:
+![08 Tax Rates](assets/screenshots/08_tax_rates.png)
 
 ---
 
