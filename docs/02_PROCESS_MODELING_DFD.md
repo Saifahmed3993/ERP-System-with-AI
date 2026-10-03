@@ -69,7 +69,7 @@ flowchart TD
     ERP -->|Audit Logs, System Health, Exception Telemetry| ADM
 
     ERP -->|14% VAT Filing Data, Withholding Tax Summaries| ETA
-    ERP -->|Salary Disbursal Instruction File (ACH / WFPS)| BNK
+    ERP -->|Salary Disbursal File ACH and WFPS| BNK
     BNK -->|Bank Statement Settlement Feed| ERP
 
     ERP -->|Scanned Receipts, Anonymized Financial Records| AI_EXT
@@ -203,7 +203,7 @@ flowchart TD
         P3_4 -->|Lock Records| D3[("D3: Payroll History & Payslips")]
         P3_4 -->|Trigger Automated Journal Event| P3_5["3.5 Generate Balanced Journal Voucher"]
         
-        P3_5 -->|Debit: 5010 Salaries Expense<br/>Credit: 2020 Accrued Payroll<br/>Credit: 2030 Tax Authority Payable| D4[("D4: General Ledger")]
+        P3_5 -->|Post Salary Expense and Tax Liabilities| D4[("D4: General Ledger")]
     end
 ```
 
@@ -231,7 +231,7 @@ flowchart TD
         DOC["Vendor PDF / Image Receipt"] -->|Upload File| P6_1["6.1 Preprocessing & Image Normalization"]
         P6_1 -->|Clean Image Tensors| P6_2["6.2 LayoutLM / Vision OCR Extraction"]
         P6_2 -->|Extracted Text, Table Entities| P6_3["6.3 Entity Disambiguation & Account Mapping"]
-        P6_3 -->|Pre-filled Bill Draft (Vendor, Tax ID, Amount)| UI["Finance UI Review"]
+        P6_3 -->|Pre-filled Bill Draft with Vendor and Amount| UI["Finance UI Review"]
         
         D4[("D4: Historical GL Cash Flows")] -->|5-Year Daily Cash Flow Series| P6_4["6.4 Feature Extraction & Fourier Decomposition"]
         D5[("D5: Due Invoices & Bills")] -->|Accounts Receivable & Payable Aging| P6_4

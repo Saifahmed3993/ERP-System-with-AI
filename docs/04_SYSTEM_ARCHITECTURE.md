@@ -97,65 +97,61 @@ flowchart TD
 The following UML Component Diagram illustrates internal assembly relationships and data interfaces between system modules:
 
 ```mermaid
-componentDiagram
-    package "Frontend Client (React 19)" {
-        [HR UI Components] as HR_UI
-        [Finance UI Components] as FIN_UI
-        [Dashboard & AI Widgets] as AI_UI
-        [Shared Table & Export Engine] as EXPORT_UI
-        [API Client Adapter] as CLIENT_API
-    }
+flowchart TB
+    subgraph Frontend["Frontend Client (React 19)"]
+        HR_UI["HR UI Components"]
+        FIN_UI["Finance UI Components"]
+        AI_UI["Dashboard & AI Widgets"]
+        EXPORT_UI["Shared Table & Export Engine"]
+        CLIENT_API["API Client Adapter"]
+    end
 
-    package "Backend Host (ASP.NET Core 10)" {
-        component [IndigoERP.API] as API_HOST {
-            portIn "HTTP/JSON Port: 5250" as P_API
-        }
+    subgraph BackendHost["Backend Host (ASP.NET Core 10)"]
+        API_HOST["IndigoERP.API (HTTP Port 5250)"]
         
-        component [IndigoERP.Application] as APP_LAYER {
-            [HR Services] as HR_SVC
-            [Payroll Engine] as PAY_SVC
-            [Finance Services] as FIN_SVC
-            [Report Aggregator] as RPT_SVC
-            [AI Bridge Service] as AI_SVC
-        }
+        subgraph APP_LAYER["IndigoERP.Application"]
+            HR_SVC["HR Services"]
+            PAY_SVC["Payroll Engine"]
+            FIN_SVC["Finance Services"]
+            RPT_SVC["Report Aggregator"]
+            AI_SVC["AI Bridge Service"]
+        end
 
-        component [IndigoERP.Domain] as DOMAIN_LAYER {
-            [Employee Aggregates] as EMP_DOM
-            [Payroll Records] as PAY_DOM
-            [Account & Ledger Models] as FIN_DOM
-            [Audit Entities] as AUD_DOM
-        }
+        subgraph DOMAIN_LAYER["IndigoERP.Domain"]
+            EMP_DOM["Employee Aggregates"]
+            PAY_DOM["Payroll Records"]
+            FIN_DOM["Account & Ledger Models"]
+            AUD_DOM["Audit Entities"]
+        end
 
-        component [IndigoERP.Infrastructure] as INFRA_LAYER {
-            [AppDbContext] as DB_CTX
-            [Egyptian Tax Engine] as TAX_ENG
-            [Local File Storage] as FILE_STG
-        }
-    }
+        subgraph INFRA_LAYER["IndigoERP.Infrastructure"]
+            DB_CTX["AppDbContext"]
+            TAX_ENG["Egyptian Tax Engine"]
+            FILE_STG["Local File Storage"]
+        end
+    end
 
-    database "Microsoft SQL Server" {
-        [IndigoERPDb] as SQL_DB
-    }
+    subgraph Data["Database Tier"]
+        SQL_DB[("IndigoERPDb (SQL Server)")]
+    end
 
-    package "AI Microservice (FastAPI / ONNX)" {
-        component [IndigoERP.AI] as AI_HOST {
-            portIn "gRPC / HTTP: 8000" as P_AI
-            [Cash Forecast Model] as AI_MOD_FC
-            [Receipt OCR Model] as AI_MOD_OCR
-            [Anomaly Detector] as AI_MOD_ANOM
-        }
-    }
+    subgraph AI_Cluster["AI Microservice (FastAPI / ONNX)"]
+        AI_HOST["IndigoERP.AI Gateway (Port 8000)"]
+        AI_MOD_FC["Cash Forecast Model"]
+        AI_MOD_OCR["Receipt OCR Model"]
+        AI_MOD_ANOM["Anomaly Detector"]
+    end
 
     HR_UI --> CLIENT_API
     FIN_UI --> CLIENT_API
     AI_UI --> CLIENT_API
-    CLIENT_API --> P_API
+    CLIENT_API --> API_HOST
 
     API_HOST --> APP_LAYER
     APP_LAYER --> DOMAIN_LAYER
     APP_LAYER --> INFRA_LAYER
     INFRA_LAYER --> SQL_DB
-    AI_SVC --> P_AI
+    AI_SVC --> AI_HOST
     AI_HOST --> AI_MOD_FC
     AI_HOST --> AI_MOD_OCR
     AI_HOST --> AI_MOD_ANOM

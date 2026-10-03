@@ -38,7 +38,7 @@ graph TD
     end
 
     HR -->|Attendance & Leave Data| PAY
-    PAY -->|Automated Journal Entries (Dr/Cr)| ACC
+    PAY -->|Automated Balanced Journal Entries| ACC
     ACC -->|Cash Flow & Ledger Data| AI
     AI -->|Predictive Cash Insights & Alerts| ACC
     HR -->|Workforce Patterns| AI
