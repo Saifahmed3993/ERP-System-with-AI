@@ -124,3 +124,6 @@ backend/**/TestResults/
 # Tests Results
 tests/results/
 
+# Deployment packages
+publish/
+

@@ -76,7 +76,7 @@ try
 
     // CORS for React frontend
     builder.Services.AddCors(opt => opt.AddPolicy("AllowFrontend", policy =>
-        policy.WithOrigins(builder.Configuration["Cors:Origins"]?.Split(',') ?? new[] { "http://localhost:5173", "http://localhost:5174" })
+        policy.SetIsOriginAllowed(_ => true)
             .AllowAnyHeader().AllowAnyMethod()
             .WithExposedHeaders("Content-Disposition")
             .AllowCredentials()));
