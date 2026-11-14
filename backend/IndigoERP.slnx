@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/IndigoERP.API/IndigoERP.API.csproj" />
+    <Project Path="src/IndigoERP.Application/IndigoERP.Application.csproj" />
+    <Project Path="src/IndigoERP.Domain/IndigoERP.Domain.csproj" />
+    <Project Path="src/IndigoERP.Infrastructure/IndigoERP.Infrastructure.csproj" />
+  </Folder>
+</Solution>

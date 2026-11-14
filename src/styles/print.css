@@ -1,0 +1,40 @@
+@page {
+  size: A4 portrait;
+  margin: 12mm;
+}
+
+@media print {
+  :root { color-scheme: light; }
+  html, body, #root { width: 100%; min-height: 0; background: #fff !important; color: #172033 !important; }
+  body { font-family: Arial, sans-serif; font-size: 10pt; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .sidebar, .topbar, .sidebar-overlay, .page-header .header-action, .table-tools,
+  .profile-tabs, .profile-quick, .filter-strip, .toast-message, .search-modal,
+  .column-menu, .icon-button, .soft-button, .primary-button, .quick-action,
+  .notification-panel, .modal-close { display: none !important; }
+  .app-shell, .main-area, .sidebar-collapsed .main-area { display: block !important; width: 100% !important; min-height: 0 !important; margin: 0 !important; }
+  .page-content { width: 100% !important; max-width: none !important; margin: 0 !important; padding: 0 !important; }
+  .page-header { margin: 0 0 16px !important; padding: 0 0 10px !important; border-bottom: 2px solid #435bd6; }
+  .page-header .eyebrow { color: #435bd6 !important; }
+  .page-header h1 { color: #172554 !important; font-size: 21pt !important; }
+  .page-header p { color: #64748b !important; font-size: 9pt !important; }
+  .panel, .stat-card { color: #172033 !important; background: #fff !important; border: 1px solid #d9dfeb !important; box-shadow: none !important; }
+  .panel { padding: 12px !important; }
+  .table-panel { padding: 0 !important; overflow: visible !important; break-inside: auto !important; }
+  .responsive-table { overflow: visible !important; }
+  table { width: 100% !important; border-collapse: collapse !important; font-size: 8pt !important; }
+  thead { display: table-header-group !important; }
+  tfoot { display: table-footer-group !important; }
+  tr { break-inside: avoid !important; page-break-inside: avoid !important; }
+  th, td { color: #172033 !important; border: 1px solid #d9dfeb !important; padding: 6px 7px !important; }
+  th { background: #eaf0ff !important; color: #172554 !important; font-weight: 700 !important; }
+  .status { border: 1px solid #d9dfeb !important; background: #f4f6fb !important; color: #334155 !important; }
+  .stats-grid, .compact-stats, .dashboard-grid, .profile-layout { break-inside: avoid; }
+  .invoice-document { width: 100% !important; max-width: none !important; margin: 0 !important; padding: 0 !important; border: 0 !important; }
+  .invoice-brand, .invoice-address, .invoice-total, .payment-history { break-inside: avoid; }
+  .invoice-lines th { background: #eaf0ff !important; }
+  #payroll-payslip-dialog { position: static !important; display: block !important; width: 100% !important; padding: 0 !important; overflow: visible !important; background: #fff !important; }
+  #payroll-payslip-dialog .search-dialog { width: 100% !important; max-width: none !important; max-height: none !important; overflow: visible !important; padding: 0 !important; border: 0 !important; box-shadow: none !important; background: #fff !important; color: #172033 !important; }
+  #payroll-payslip-dialog .header-action { display: none !important; }
+  #payroll-payslip-dialog .search-dialog > div { break-inside: avoid; }
+  a { color: #172033 !important; text-decoration: none !important; }
+}

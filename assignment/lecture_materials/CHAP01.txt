@@ -1,0 +1,399 @@
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+<1.#>
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+<1.#>
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+<1.#>
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+<1.#>
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+<1.#>
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+<1.#>
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+<1.#>
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+<1.#>
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+<1.#>
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+<1.#>
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+<1.#>
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Essentials ofSystems Analysis and DesignThird Edition Joseph S. ValacichJoey F. GeorgeJeffrey A. Hoffer
+---
+Chapter 1 The Systems Development Environment
+---
+1.1
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Learning Objectives
+---
+Define information systems analysis and design.Discuss the modern approach to systems analysis and design that combines both process and data views of systems.Describe the role of the systems analyst in information systems development.Describe the different sources of software.
+---
+1.2
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Learning Objectives (continued)
+---
+Describe three types of information systems:Transaction Processing Systems (TPS)Management Information Systems (MIS)Decision Support Systems (DSS).Describe the information systems development life cycle (SDLC).
+---
+1.3
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Learning Objectives (continued)
+---
+Discuss alternatives to the systems development life cycle, including a description of the role of computer aided software engineering (CASE) tools in systems development.
+---
+1.4
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Chapter Preview
+---
+Systems Analysis is a proven method to help business utilize information to its fullest capacity.Systems Development Life Cycle (SDLC) Central to Information Systems Development
+---
+1.5
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+What is Information Systems Analysis and Design?
+---
+A method used by companies to create and maintain systems that perform basic business functionsMain goal is to improve employee efficiency by applying software solutions to key business tasksA structured approach must be used in order to ensure success
+---
+1.6
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+What is Information Systems Analysis and Design? (continued)
+---
+Systems Analyst performs analysis and design based upon:Understanding of organization’s objectives, structure and processesKnowledge of how to exploit information technology for advantageFig 1-1 illustrates the Systems Development Life Cycle, a four-phased approach used throughout this text.
+---
+1.7
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Systems Analysis and Design: Core Concepts
+---
+Major goal: to improve organizational systems by developing or acquiring application software and training employees in its useApplication software, or a system, supports organizational functions or processes.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Systems Analysis and Design: Core Concepts (continued)
+---
+System: Turns data into information and includes:Hardware and system softwareDocumentation and training materialsJob roles associated with the systemControls to prevent theft or fraudThe people who use the software to perform their jobsFigure 1-2 illustrates all the components of a system.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Software Engineering Process
+---
+A process used to create an information systemConsists of:MethodologiesA sequence of step-by-step approaches that help develop the information systemTechniquesProcesses that the analyst follows to ensure thorough, complete, and comprehensive analysis and designToolsComputer programs that aid in applying techniques
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+System
+---
+A system is an interrelated set of business procedures used within one business unit working together for a purpose.A system has nine characteristics.A system exists within an environment.A boundary separates a system from its environment.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Characteristics of a System
+---
+ComponentsInterrelated ComponentsBoundaryPurposeEnvironmentInterfacesConstraintsInputOutput
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Important System Concepts
+---
+DecompositionThe process of breaking down a system into smaller componentsAllows the systems analyst to:Break a system into small, manageable and understandable subsystemsFocus on one area at a time, without interference from other areasConcentrate on component pertinent to one group of users without confusing users with unnecessary detailsBuild different components at independent times and have the help of different analysts
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Important System Concepts (continued)
+---
+ModularityProcess of dividing a system into modules of a relatively uniform sizeModules simplify system designCouplingSubsystems that are dependent upon each other are coupledCohesionExtent to which a subsystem performs a single function
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+A Modern Approach to Systems Analysis and Design
+---
+Systems IntegrationAllows hardware and software from different vendors to work togetherEnables procedural language systems to work with visual programming systemsVisual programming environment uses client/server model.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Your Role in Systems Development
+---
+Study problems and needs of an organizationDetermine best approach to improving organization through use of:PeopleMethodsInformation technologyHelp system users and managers define their requirements for new or enhanced information systems
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Outsourcing
+---
+Practice of another organization developing and/or running a computer application for your organizationMany types of working arrangementsShould be considered as one possible alternative to developing a system
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Sources of Software
+---
+Information Technology Services FirmsPackaged Software ProvidersEnterprise Solutions SoftwareOpen-Source SoftwareIn-House Development
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Types of Information Systemsand Systems Development
+---
+Transaction Processing Systems (TPS)Automate handling of data about business activities (transactions)Management Information Systems (MIS)Converts raw data from transaction processing system into meaningful formDecision Support Systems (DSS)Designed to help decision makersProvides interactive environment for decision making
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Developing Information Systems and the Systems Development Life Cycle
+---
+System Development MethodologyStandard process followed in an organizationConsists of:AnalysisDesignImplementationMaintenance
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Developing Information Systems and the Systems Development Life Cycle (continued)
+---
+Series of steps used to manage the phases of development for an information systemConsists of four phases:Planning and SelectionAnalysisDesignImplementation and Operation
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Developing Information Systems and the Systems Development Life Cycle (continued)
+---
+Phases are not necessarily sequential.Each phase has a specific outcome and deliverable.Individual companies use customized life cycle.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Phases of the Systems Development Life Cycle
+---
+Systems Planning and SelectionTwo Main ActivitiesIdentification of needInvestigation and determination of scopeSystems AnalysisStudy of current procedures and information systemsDetermine requirementsGenerate alternative designsCompare alternativesRecommend best alternative
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Phases of the Systems Development Life Cycle (continued)
+---
+System DesignLogical DesignConcentrates on business aspects of the systemPhysical DesignTechnical specificationsSystem Implementation and OperationImplementationHardware and software installationProgrammingUser TrainingDocumentation
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Phases of the Systems Development Life Cycle (continued)
+---
+System Implementation and Operation (continued)System changed to reflect changing conditionsSystem obsolescence
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Approaches to Development
+---
+PrototypingBuilding a scaled-down working version of the systemAdvantages:Users are involved in designCaptures requirements in concrete form
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Approaches to Development (continued)
+---
+Computer-Assisted Software Engineering (CASE) ToolsAutomated software tools used by systems analysts to develop information systemsCan be used throughout SDLCProduct and tool integration is provided through a repository
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Approaches to Development (continued)
+---
+General types of CASE toolsDiagramming toolsComputer display and report generatorsAnalysis toolsRepositoryDocumentation generatorsCode generators
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Approaches to Development (continued)
+---
+Joint Application Design (JAD)Users, Managers and Analysts work together for several daysSystem requirements are reviewedStructured meetingsRapid Application Development (RAD)Utilizes prototyping to delay producing system design until after user requirements are clear
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Approaches to Development (continued)
+---
+Participatory Design (PD)Emphasizes role of the userEntire user community can be involved in designAgile MethodologiesFocuses on Adaptive methodologiesPeople instead of rolesSelf-adaptive development process
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Summary
+---
+Information systems analysis and designProcess of developing and maintaining an information systemModern approach to systems analysisProcess-orientedData-oriented
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Summary (continued)
+---
+Role of Systems AnalystSources of SoftwareThree types of information systemsTransaction Processing (TPS)Management Information System (MIS)Decision Support (DSS)
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Summary (continued)
+---
+Systems Development Life Cycle (SDLC)Systems Planning and SelectionSystems AnalysisSystems DesignSystems ImplementationAlternatives to Systems Development Life CyclePrototypingRapid Application Development (RAD)CASE
+---
+1.*
+---
+Copyright 2006 Prentice-Hall, Inc.
+---
+Summary
+---
+Joint Application Design (JAD)Participatory Design (PD)Agile Methodologies
+---
+1.*

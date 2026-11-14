@@ -1,0 +1,169 @@
+Essentials ofSystems Analysis and DesignThird Edition Joseph S. ValacichJoey F. GeorgeJeffrey A. Hoffer
+---
+Chapter 2 Managing the Information Systems Project
+---
+Learning Objectives
+---
+Discuss skills required to be an effective project manager.Describe skills and activities of a project manager during project initiation, planning, execution and closedown.Explain Gantt Charts and Network DiagramsReview commercial project management software packages.
+---
+Pine Valley Furniture
+---
+Manufacturing CompanyProduct: Wood FurnitureMarket: United StatesOrganized into functional areasManufacturingSalesThree independent computer systems were converted to a database in 1990s.
+---
+Managing the Information Systems Project
+---
+Focus of Project ManagementTo ensure that information system projects meet customer expectationsDelivered in a timely mannerMeet constraints and requirements
+---
+Managing the Information Systems Project
+---
+Project ManagerSystems Analyst responsible forProject initiationPlanningExecutionClosing downRequires diverse set of skillsManagementLeadershipTechnical problem solvingConflict managementCustomer relationsTeam managementRisk and change management
+---
+Project Management Process
+---
+ProjectPlanned undertaking of related activities to reach an objective that has a beginning and an endFour PhasesInitiating the projectPlanning the projectExecuting the projectClosing down the project
+---
+Initiating the Project
+---
+Establish the project initiation teamEstablish a relationship with the customerEstablish the project initiation planEstablish management proceduresEstablish the project management environment and workbookDevelop the project charter
+---
+Planning the Project
+---
+Describe project scope, alternatives and feasibilityScope and FeasibilityUnderstand the projectWhat problem is addressedWhat results are to be achievedMeasures of successCompletion criteria
+---
+Planning the Project (continued)
+---
+Divide the project into manageable tasksWork breakdown structureGantt chartEstimate resources and create a resource plan.Develop a preliminary scheduleUtilize Gantt Charts and Network Diagrams
+---
+Planning the Project (continued)
+---
+Develop a communication planOutline communication processes among customers, team members and managementDefine types of reports and their distributionDetermine frequency of reports
+---
+Planning the Project (continued)
+---
+Determine project standards and proceduresSpecify how deliverables are tested and producedIdentify and assess riskIdentify sources of riskEstimate consequences of riskCreate a preliminary budgetDevelop a project scope statementDescribe what the project will deliver
+---
+Planning the Project (continued)
+---
+Set a baseline project planEstimate of project’s tasks and resources
+---
+Executing the Project
+---
+Execute baseline project planAcquire and assign resourcesTrain new team membersKeep project on scheduleMonitor project progressAdjust resources, budget and/or activities
+---
+Executing the Project (continued)
+---
+Manage changes to baseline project planSlipped (review) completion datesBungled (failed) activity that must be redoneChanges in personnelNew activitiesMaintain project workbookCommunicate project status
+---
+Closing Down the Project
+---
+TerminationTypes of terminationNaturalRequirements have been metUnnaturalProject stoppedDocumentationPersonnel Appraisal
+---
+Closing Down the Project (continued)
+---
+Conduct post-project reviewsDetermine strengths and weaknesses ofProject deliverablesProject management processDevelopment processClose customer contract
+---
+Representing and Scheduling Project Plans
+---
+Gantt ChartsUseful for depicting (describe) simple projects or parts of large projectsShow start and completion dates for individual tasksNetwork DiagramsShow order of activities
+---
+Comparison of Gantt Charts and Network Diagrams
+---
+Gantt ChartsVisually shows duration of tasksVisually shows time overlap between tasksVisually shows slack time
+---
+Network DiagramsVisually shows dependencies between tasksVisually shows which tasks can be done in parallelShows slack time by data in rectangles
+---
+Gantt Chart and Network Diagram for Pine Valley Furniture
+---
+StepsIdentify each activity Requirements collectionScreen designReport designDatabase (build) constructionUser documentation creationSoftware programmingInstallation and testing
+---
+Gantt Chart and Network Diagram for Pine Valley Furniture (continued)
+---
+Determine time estimates and expected completion times for each activity.
+---
+ET= expected timeO = optimistic timeR = realistic timeP = pessimistic timeexpected time= optimistic time+4*realistic time+ pessimistic time/6
+---
+Gantt Chart and Network Diagram for Pine Valley Furniture (continued)
+---
+Determine sequence of activities
+---
+Gantt Chart and Network Diagram for Pine Valley Furniture (continued)
+---
+Determine the critical pathSequence of events that will affect the final project delivery date
+---
+Commercial Project Management Software
+---
+Many systems are availableThree activities are required:Establish project start or end dateEnter tasks and assign task relationshipsSelect scheduling method to review project reports
+---
+Summary
+---
+Skills of An Effective Project ManagerActivities of Project ManagerInitiationPlanningExecutionClosedownGantt Charts and Network DiagramsCommercial PM Software
+---
+Click to edit Master title style
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+*<1.#>
+---
+Essentials of Systems Analysis and DesignSecond Edition
+---
+Joseph S. ValicichJoey F. GeorgeJeffrey A. Hoffer
+---
+Click to edit Master text stylesSecond levelThird levelFourth levelFifth level
+---
+2.1
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*
+---
+2.*

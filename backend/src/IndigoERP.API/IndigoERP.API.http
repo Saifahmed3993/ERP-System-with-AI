@@ -1,0 +1,6 @@
+@IndigoERP.API_HostAddress = http://localhost:5250
+
+GET {{IndigoERP.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
